@@ -14,5 +14,5 @@ public class Player {
     private String nick;
     private Pokemon pokemon;
     List<ItemInventory> itemInventory;
-    private long money;
+    private int money = 0;
 }
