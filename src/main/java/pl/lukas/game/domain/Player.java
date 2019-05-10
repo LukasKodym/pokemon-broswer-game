@@ -13,6 +13,6 @@ public class Player {
     private String photo;
     private String nick;
     private Pokemon pokemon;
-    List<ItemInventory> itemInventory;
+    //List<ItemInventory> itemInventory;
     private int money = 0;
 }
